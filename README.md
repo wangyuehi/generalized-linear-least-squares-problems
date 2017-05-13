@@ -1,5 +1,5 @@
 # generalized-linear-least-squares-problems
-COMP 642 final project
+
 
 ### Comparison of three methods for computing the GLS estimator.
 * Method 1 was presented in COMP 642 lecture notes, called Paige's approach.
